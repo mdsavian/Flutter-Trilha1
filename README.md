@@ -18,7 +18,7 @@ O projeto se encontra desta forma:
 Você(s) deverá(ão) compor o layout para:
 
 
-![trilha12](https://user-images.githubusercontent.com/17149877/135562624-ec043363-5acd-4bd1-9463-3a2991bcb921.png)
+![trilha12](https://user-images.githubusercontent.com/17149877/135562903-16c2569d-bd87-433d-9714-da23b771a7e3.png)
 
 Obviamente com o tema que desejar!
 ______________________________________________________________
