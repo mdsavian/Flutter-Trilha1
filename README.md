@@ -1,16 +1,24 @@
-# trilha1
+# Trilha1
+_____________________________________________________
+Na trilha Um encontramos um layout simples desenvolvido com widgets básicos e no modo Stateless.
+Este layout irá contemplar:
+1. Inserção de textos;
+2. Estilização de AppBar;
+3. Declaração das classes Container, Column ou Center;
+4. Trabalho com o importante widget Scafold;
+5. Configuração de dependências pubsec;
 
-A new Flutter project.
+___________________________________________________
+Se escolheu a Trilha Um, você fará o clone da primeira etapa.
 
-## Getting Started
+O projeto se encontra desta forma:
 
-This project is a starting point for a Flutter application.
+![trilha11](https://user-images.githubusercontent.com/17149877/135562573-edcff083-12e6-45a6-9ce1-d435042c3c03.png)
 
-A few resources to get you started if this is your first Flutter project:
+Você(s) deverá(ão) compor o layout para:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![trilha12](https://user-images.githubusercontent.com/17149877/135562624-ec043363-5acd-4bd1-9463-3a2991bcb921.png)
+
+Obviamente com o tema que desejar!
+______________________________________________________________
