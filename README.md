@@ -8,6 +8,7 @@ Este layout irá contemplar:
 4. Trabalho com o importante widget Scafold;
 5. Configuração de dependências pubsec;
 
+Obs: É possível escolher o desenvolvimento híbrido (o que já está configurado neste projeto, mas todos são livres se desejam desenvolver só para mobile, só para web ou ambos)
 ___________________________________________________
 Se escolheu a Trilha Um, você fará o clone da primeira etapa.
 
